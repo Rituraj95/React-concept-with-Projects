@@ -2,7 +2,7 @@
 
 A simple React component for creating and displaying a to-do list.
 
-##Topic that i learnt in this project
+## Topic that i learnt in this project
 
 1. **Functional Components:**
    The `ToDo` component is a functional component, which is a way of defining React components using a function.
