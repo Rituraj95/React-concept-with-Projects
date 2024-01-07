@@ -14,14 +14,22 @@ export default function ToDo() {
             setTask([...task,text]);
             setText("")
         }
-    };
+    }
+    const handleDelete=(index)=>{
+        const updatedTasks=task.filter((_,i)=>i !==index);
+        setTask(updatedTasks);
+    }
   return (
     <div>
         <input onChange={handleInputChange} type="text" />
         <button onClick={handleAddText}>add</button>
         <ul>
            {task.map((item,index)=>(
-            <li key={index}>{item}</li>
+            <li key={index}>
+                {item}
+                <button onClick={()=>handleDelete(index)}>Delete</button>
+
+            </li>
            ))}
          
         </ul>
