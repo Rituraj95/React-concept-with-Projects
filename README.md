@@ -2,7 +2,7 @@
 
 Welcome to my React Projects Repository! This collection features small React.js projects, each focusing on a specific concept.
 
-## In this Repository i have created small small react project for cleaeing my basic concept of react js
+## In this Repository i have created small small react project for clearing my basic concept of react js
 ## I have also add the concept behind every project 
 
 ## Projects
