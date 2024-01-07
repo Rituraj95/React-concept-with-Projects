@@ -13,10 +13,7 @@ This project demonstrates the following React concepts:
 - **Functional Components:**
   - The `GetTime` component is a functional component, highlighting the use of React hooks.
 
-- **Use of `useEffect`:**
-  - If applicable, describe how the `useEffect` hook may be used for setting up intervals or handling side effects.
 
-Feel free to explore the code to understand these concepts in action.
 
 
 
