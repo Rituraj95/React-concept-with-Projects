@@ -1,3 +1,27 @@
+## Thing that i learnt in this project 
+# React Time Display Project
+
+This project demonstrates the following React concepts:
+
+- **State Management:**
+  - The current time is stored in the component's state (`ctime`) using the `useState` hook.
+  - The `setCtime` function is used to update the state.
+
+- **Event Handling:**
+  - The "Get time" button triggers the `updateTime` function through the `onClick` event, updating the displayed time.
+
+- **Functional Components:**
+  - The `GetTime` component is a functional component, highlighting the use of React hooks.
+
+- **Use of `useEffect`:**
+  - If applicable, describe how the `useEffect` hook may be used for setting up intervals or handling side effects.
+
+Feel free to explore the code to understand these concepts in action.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
