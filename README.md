@@ -5,7 +5,7 @@ Welcome to my React Projects Repository! This collection features small React.js
 ## In this Repository i have created small small react project for clearing my basic concept of react js
 ## I have also add the concept behind every project 
 
-## Projects
+## Projects so far
 
 1. **to-do list**
 2. **Digitel-watch**
