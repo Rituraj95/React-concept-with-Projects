@@ -11,6 +11,8 @@ Welcome to my React Projects Repository! This collection features small React.js
 2. **Digitel-watch**
 3. **Counter app**
 4. **Get-time app**
+5. **form**
+6. **weather**
 
 
 
